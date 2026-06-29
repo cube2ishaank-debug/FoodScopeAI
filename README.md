@@ -2,9 +2,9 @@
 FoodScopeAI is a lightweight CV AI model that aims to sort food/grocery items into categories. By doing so, it can prove to be useful for usecases such as fitness food logging apps, smart fridges, quick item scanning and more. 
 <br> With a dataset pulled using an algorithm, straight from the internet.
 
-## Dataset
-FoodScopeAI's dataset is relatively small in size at 61.8MB and 7,969 images.It is hosted on Hugging Face. 
-### Download it
+## Latest Model's Dataset
+FoodScopeAI's v1 dataset is relatively small in size at 61.8MB and 7,969 images. It is hosted on Hugging Face. 
+### Download it here
 Link to download as a '.zip' file: https://huggingface.co/datasets/BansalBytes/FoodScopeAI_dataset_v1/resolve/main/FoodScopeAI_dataset_v1.zip
 <br> 
 ### Format
